@@ -1,4 +1,3 @@
-# Samy-apk
-# esse app irá ajudar
-# a gerência módulo de performance 
+# Samy-certificacao
+
 # atualizado para download 
